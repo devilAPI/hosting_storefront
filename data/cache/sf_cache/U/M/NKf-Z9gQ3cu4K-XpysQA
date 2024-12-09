@@ -1,0 +1,3 @@
+1733779845
+cron_issue
+O:1:"©":1:{s:6:"ÿ½n•";a:2:{s:4:"text";s:177:"Cron was never executed, please ensure you have configured the cronjob or else scheduled tasks within FOSSBilling will not behave correctly. (Message will remain for 15 minutes)";s:3:"url";s:46:"http://localhost/admin/extension/settings/cron";}}
