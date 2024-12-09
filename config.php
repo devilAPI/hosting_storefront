@@ -15,7 +15,7 @@ return array (
     'stacktrace_length' => 25,
     'report_errors' => false,
   ),
-  'info' => 
+  'info' =>  
   array (
     'salt' => '37e6f3182f8052a6b7719d510fbc8862',
     'instance_id' => 'd382989a-cb53-4ee3-abb7-c6ff18e8bd40',
